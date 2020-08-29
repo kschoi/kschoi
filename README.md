@@ -6,7 +6,7 @@
 
 ### e-book
 
-* https://kschoi0308.gitbook.io/essential-javascript/
+* https://kschoi.gitbook.io/essential-javascript/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kschoi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
