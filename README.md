@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me 
+
+* 😄 I’m interested in css, javascript, typescript and UI/UX design
+* 📫 How to reach me: kschoi0308@gmail.com, kakao id: kschoi0308
+
+
+
 
 <!--
 **kschoi/kschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
