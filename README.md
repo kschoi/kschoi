@@ -4,6 +4,10 @@
 * 😄 I’m interested in css, javascript, typescript and UI/UX design
 * 📫 How to reach me: kschoi0308@gmail.com, kakao id: kschoi0308
 
+### e-book
+
+* https://kschoi0308.gitbook.io/essential-javascript/
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kschoi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
