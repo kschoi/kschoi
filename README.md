@@ -4,7 +4,7 @@
 * 😄 I’m interested in css, javascript, typescript and UI/UX design
 * 📫 How to reach me: kschoi0308@gmail.com, kakao id: kschoi0308
 
-### gitbook
+### writings
 * https://kschoi.gitbook.io/essential-javascript/
 * https://design-system-group.gitbook.io/reference/
 
