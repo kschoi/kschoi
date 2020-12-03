@@ -6,7 +6,6 @@
 
 ### writings
 * https://kschoi.gitbook.io/essential-javascript/
-* https://kschoi.gitbook.io/javascript-module-bundler/
 * https://design-system-group.gitbook.io/reference/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kschoi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,6 +15,7 @@
 
 
 <!--
+* https://kschoi.gitbook.io/javascript-module-bundler/
 **kschoi/kschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
