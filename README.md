@@ -5,6 +5,7 @@
 * 📫 How to reach me: kschoi0308@gmail.com, kakao id: kschoi0308
 
 ### writings
+* https://kschoi.github.io/
 * https://kschoi.gitbook.io/essential-javascript/
 * https://design-system-group.gitbook.io/reference/
 
