@@ -2,7 +2,7 @@
 ### About me 
 
 * 😄 I’m interested in css, javascript, typescript and UI/UX design
-* 📫 How to reach me: kschoi0308@gmail.com, kakao id: kschoi0308
+* 📫 How to reach me: kschoi0308@gmail.com, [linkedin](https://www.linkedin.com/in/kyungsun-choi-93420019b/), kakao id: kschoi0308
 
 ### writings
 * https://kschoi.github.io/
