@@ -1,7 +1,7 @@
 
 ### About me 
 
-* 😄 I’m interested in UI/UX, web frontend, mobile development based on flutter.
+* 😄 Currently focusing on JS.
 * 📫 How to reach me: kschoi0308@gmail.com, [linkedin](https://www.linkedin.com/in/kyungsun-choi-93420019b/), kakao id: kschoi0308
 
 ### writings
